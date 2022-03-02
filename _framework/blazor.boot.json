@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "DSTViewer.Client.dll": "sha256-JaH1obYBtbl8zEFVqKiYQSccz+Ec\/\/u0UWxhdCIx4SA=",
+      "DSTViewer.Client.dll": "sha256-Lp9JZiItgZH9R0glGP\/oEVmyRPxxHsEirEuVThgetaE=",
       "DSTViewer.Shared.dll": "sha256-NINjT4kgXFIavwQwJOWuWbl7OcRFQ7CrMtHUoj7ZO+0=",
       "Microsoft.AspNetCore.Components.dll": "sha256-U\/13Q5rVTtpIksXNgHV5b+RdHiwyuSejvbu5+VFJDcg=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-swhllcB8+ISyD3Ea\/Bqq5pPKpxnXh369OZQx5xow18s=",
